@@ -1,2 +1,2 @@
 # website.dj.confeccoes
- Web Site resposnsivo desenvolvido em HTML, CSS e JS
+ Web Site responsivo desenvolvido em HTML, CSS e JS
